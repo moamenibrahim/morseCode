@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MorseCode Web Api
 
 A program that converts English text to Morse code and vice versa. For example, English text “SOS” should be converted to “•••−−−•••”. Converter is case insensitive, thus “sos” should produce same output “•••−−−•••” as “SOS” does. When converted to English, everything should be uppercased, thus “sos” converted to Morse and back to English should output “SOS”.
@@ -34,3 +35,7 @@ To run the tests please make sure that you activated the virtual environment usi
 
 main.py is for the terminal (command line version)
 morseGUI.py is for the Graphical user interface version
+=======
+# morseCode
+A simple program that converts English text to Morse code and vice versa
+>>>>>>> bcd70d06b8831a5e28cfe0cb58168164c084eee1
